@@ -4,12 +4,12 @@ Este repositório é uma documentação dos meus estudos na área de QA. Ele seg
 
 ## Estrutura de conteúdo:
 
-├── README.md
-├── fundamentos/
-│   ├── introducao-qa.md
-
-├── Tipos de teste/
-│  
+qa-roadmap/<br>
+├── README.md<br>
+├── fundamentos/<br>
+│   ├── introducao-qa.md<br>
+│   ├── tipos-de-teste.md<br>
+├── testes-manuais/<br>
 
 ---
 
