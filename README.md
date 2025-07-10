@@ -8,8 +8,7 @@ qa-roadmap/<br>
 ├── README.md<br>
 ├── fundamentos/<br>
 │   ├── introducao-qa.md<br>
-│   ├── tipos-de-teste.md<br>
-├── testes-manuais/<br>
+├── Tipos de teste/<br>
 
 ---
 
