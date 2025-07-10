@@ -1,11 +1,11 @@
 
 # Teste de Caixa Branca - Validação de Tipos na Função `somar`
 
----
+
 
 ##  Cenário
 
----
+
  A função `somar(num1, num2)` realiza uma soma direta entre dois parâmetros.
 
 #### Problema Identificado
